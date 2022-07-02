@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://Hadi258:Haider123@ecommerce.0w2dk.mongodb.net/?retryWrites=true&w=majority",
+    "secretOrKey": "secret"
+}
